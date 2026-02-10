@@ -1,6 +1,3 @@
-# vLLM 서빙 구조
-
-모델은 `/home/h202403659/LLM-Server/models/llm` 아래에 있는 것을 **이름만 바꿔서** 쉽게 전환할 수 있습니다.
 
 ## 디렉토리 구성
 
@@ -20,6 +17,5 @@ MODEL_NAME=gemma3-12b-it
 ## 실행
 
 ```
-cd /home/h202403659/LLM-Server/serving/vllm
-./scripts/serve.sh
+./serve.sh
 ```
