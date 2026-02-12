@@ -1,5 +1,5 @@
 ## 실행 환경
-- OS: Windows 11 
+- OS: Windows 11 , WSL2 : ubuntu 22.04 LTS
 - Python 버전: 3.11.9
 - 주요 패키지 버전:
   - torch: 2.9.0+cu126
