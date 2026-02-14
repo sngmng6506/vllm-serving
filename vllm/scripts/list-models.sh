@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-MODEL_BASE_DIR="/home/h202403659/LLM-Server/models/llm"
+MODEL_BASE_DIR="LLM - directory - path"
 ls -1 "${MODEL_BASE_DIR}"
